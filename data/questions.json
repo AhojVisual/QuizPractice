@@ -1,0 +1,157 @@
+[
+  {
+    "id": 1,
+    "type": "single",
+    "question": "流經巴西雨林的河流叫什麼名字？",
+    "options": ["亞馬遜", "黃河", "幼發拉底河", "淡水河"],
+    "answer": [1],
+    "weight": 1,
+    "image": null,
+    "explanation": "黃河是在中國，幼發拉底河流經敘利亞和伊拉克, 淡水河則位於台灣台北的河流。"
+  },
+  {
+    "id": 2,
+    "type": "multi",
+    "question": "全世界有冷泉的國家只有...，請選擇兩個",
+    "options": ["臺灣", "法國", "義大利", "印尼"],
+    "answer": [1,3],
+    "weight": 1,
+    "image": null,
+    "explanation": "台灣的蘇澳冷泉及義大利的威尼斯，全球僅有兩處的天然泉。"
+  },
+  {
+    "id": 3,
+    "type": "single",
+    "question": "世界上最大的沙漠是什麼？",
+    "options": ["阿拉伯沙漠", "撒哈拉沙漠", "九棚大沙漠", "南極沙漠"],
+    "answer": [4],
+    "weight": 3,
+    "image": null,
+    "explanation": "極度乾燥的地方。在南極洲，雖然到處都是冰雪，但這裡的降水量少得可憐，每年的降水量平均不到 200毫米，比撒哈拉沙漠還要少"
+  },
+  {
+    "id": 4,
+    "type": "multi",
+    "question": "哪兩個國家與匈牙利直接接壤？",
+    "options": [
+      "斯洛伐克",
+      "烏克蘭",
+      "羅馬尼亞",
+      "波蘭"
+    ],
+    "answer": [1,2],
+    "weight": 1,
+    "image": null,
+    "explanation": "斯洛伐克和烏克蘭"
+  },
+  {
+    "id": 5,
+    "type": "single",
+    "question": "珠穆朗瑪峰在哪個國家？",
+    "options": ["尼泊爾", "西藏", "印度", "俄羅斯"],
+    "answer": [1],
+    "weight": 1,
+    "image": null,
+    "explanation": "是全世界最高的山，海拔8844.43m，屬於喜馬拉雅山脈，在中華人民共和國同尼泊爾的邊境"
+  },
+  {
+    "id": 6,
+    "type": "single",
+    "question": "非洲最長的河流叫什麼名字？",
+    "options": ["約旦河", "亞馬遜", "剛果河", "尼羅河"],
+    "answer": [4],
+    "weight": 2,
+    "image": null,
+    "explanation": "答案是尼羅河。"
+  },
+  {
+    "id": 7,
+    "type": "single",
+    "question": "納斯卡線在哪個國家？",
+    "options": ["挪威", "秘魯", "巴西", "哥倫比亞"],
+    "answer": [2],
+    "weight": 2,
+    "image": null,
+    "explanation": "納斯卡線是一組位於秘魯南部塞丘拉沙漠上，在納斯卡鎮與帕爾帕市之間的巨大地面圖形。"
+  },
+  {
+    "id": 8,
+    "type": "single",
+    "question": "WAW是哪個首都機場的機場代碼？",
+    "options": ["華沙", "布達佩斯", "布拉格", "布魯塞爾"],
+    "answer": [1],
+    "weight": 2,
+    "image": null,
+    "explanation": "WAW是華沙的機場代碼。"
+  },
+  {
+    "id": 9,
+    "type": "single",
+    "question": "印度的首都是哪裡？",
+    "options": ["新德里", "孟買", "加爾各答", "班加羅爾"],
+    "answer": [1],
+    "weight": 2,
+    "image": null,
+    "explanation": "新德里是印度的首都。"
+  },
+  {
+    "id": 10,
+    "type": "single",
+    "question": "地球表面有多少被海洋覆蓋？",
+    "options": ["60%", "71%", "81%", "90%"],
+    "answer": [2],
+    "weight": 2,
+    "image": null,
+    "explanation": "地球表面約71%被海洋覆蓋。"
+  },
+  {
+    "id": 11,
+    "type": "single",
+    "question": "你會在哪個地標找到蒙娜麗莎？ ",
+    "options": ["故宮", "大英博物館", "梵諦岡博物館", "盧浮宮"],
+    "answer": [4],
+    "weight": 2,
+    "image": null,
+    "explanation": "蒙娜麗莎是達文西的名作，現藏於法國巴黎的盧浮宮博物館。"
+  },
+  {
+    "id": 12,
+    "type": "single",
+    "question": "如果我在看特萊維噴泉，我在哪個省會城市？ ",
+    "options": ["意大利羅馬", "英國倫敦", "法國巴黎", "丹麥哥本哈根"],
+    "answer": [1],
+    "weight": 3,
+    "image": null,
+    "explanation": "特萊維噴泉位於意大利羅馬，是羅馬最著名的噴泉之一。"
+  },
+  {
+    "id": 13,
+    "type": "single",
+    "question": "以下圖片是哪一個國家的國旗?",
+    "options": ["格陵蘭", "波蘭", "捷克", "馬達加斯加"],
+    "answer": [3],
+    "weight": 2,
+    "image": "image/Checz.png",
+    "explanation": "捷克的國旗由紅色、白色和藍色組成，左側有一個藍色的三角形。"
+  },
+  {
+    "id": 14,
+    "type": "single",
+    "question": "清末,臺灣經濟重心逐漸北移,此情形最可能與下列何種作物的出口息息相關?",
+    "options": ["鹿皮", "稻米", "蔗糖", "茶葉"],
+    "answer": [4],
+    "weight": 3,
+    "image": null,
+    "explanation": "茶葉是清末臺灣經濟重心北移的主要原因。"
+  },
+  {
+    "id": 15,
+    "type": "multi",
+    "question": "地球暖化使得冰川加速融化，導致海平面逐漸上升，許多由島嶼組成的國家面臨被海水淹沒的危機。下列哪個國家將面臨此種危機？(可複選)",
+    "options": ["馬爾地夫", "匈牙利", "捷克", "吐瓦魯"],
+    "answer": [1, 4],
+    "weight": 2,
+    "image": null,
+    "explanation": "馬爾地夫和吐瓦魯都是由島嶼組成的國家，面臨被海水淹沒的危機。"
+  }
+]
