@@ -72,6 +72,7 @@ function showHome() {
           <option value="5">5</option>
           <option value="10">10</option>
           <option value="20" selected>20</option>
+          <option value="21">全部</option>
         </select>
       </label>
       <br>
