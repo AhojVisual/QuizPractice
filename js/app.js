@@ -62,8 +62,8 @@ function showHome() {
       <label class="form-title">題號範圍：
         <select id="range" style="width:50px; display:inline-block; margin-left:8px; margin-bottom:8px;">
           <option value="10">10</option>
-          <option value="20">20</option>
-          <option value="all">全部</option>
+          <option value="15">15</option>
+          <option value="all" selected>全部</option>
         </select>
       </label>
       <br>
@@ -71,8 +71,7 @@ function showHome() {
         <select id="count" style="width:50px; display:inline-block; margin-left:8px; margin-bottom:8px;">
           <option value="5">5</option>
           <option value="10">10</option>
-          <option value="20">20</option>
-          <option value="25" selected>25</option>
+          <option value="20" selected>20</option>
         </select>
       </label>
       <br>

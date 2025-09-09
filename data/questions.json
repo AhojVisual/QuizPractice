@@ -153,5 +153,55 @@
     "weight": 2,
     "image": null,
     "explanation": "馬爾地夫和吐瓦魯都是由島嶼組成的國家，面臨被海水淹沒的危機。"
+  },
+  {
+    "id": 16,
+    "type": "single",
+    "question": "世界上最富有的國家？",
+    "options": ["美國", "匈牙利", "日本", "法國"],
+    "answer": [1],
+    "weight": 2,
+    "image": null,
+    "explanation": "美國是世界上最富有的國家，GDP 25.46 兆美元。"
+  },
+  {
+    "id": 17,
+    "type": "single",
+    "question": "世界上最小的國家？",
+    "options": ["馬爾地夫", "梵蒂岡城", "臺灣", "新加坡"],
+    "answer": [2],
+    "weight": 2,
+    "image": null,
+    "explanation": "梵蒂岡城是世界上最小的國家，面積僅有0.49平方公里。"
+  },
+  {
+    "id": 18,
+    "type": "single",
+    "question": "世界上有幾個大陸?",
+    "options": ["10", "6", "7", "8"],
+    "answer": [3],
+    "weight": 1,
+    "image": null,
+    "explanation": "世界上有七大洲，亞洲、非洲、北美、南美、南極、歐洲、澳洲"
+  },
+  {
+    "id": 19,
+    "type": "single",
+    "question": "如果我要訪問白俄羅斯的首都，我在哪個城市？",
+    "options": ["明斯克", "布拉格", "華沙", "基輔"],
+    "answer": [1],
+    "weight": 2,
+    "image": null,
+    "explanation": "明斯克是白俄羅斯的首都。"
+  },
+  {
+    "id": 20,
+    "type": "single",
+    "question": "台灣的熱帶季風氣候區和副熱帶季風氣候區，大致以哪一條緯線作為分界？",
+    "options": ["北緯19.5度", "北緯21.5度", "北緯23.5度", "北緯25.5度"],
+    "answer": [3],
+    "weight": 2,
+    "image": null,
+    "explanation": "台灣的熱帶季風氣候區和副熱帶季風氣候區，大致以北緯23.5度作為分界。"
   }
 ]
